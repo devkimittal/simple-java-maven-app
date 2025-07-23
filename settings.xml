@@ -2,7 +2,7 @@
   <servers>
     <server>
       <id>maven-dev</id>
-      <username>anmol.pandey@harness.io</username>
+      <username>devki.mittal@harness.io</username>
       <password>${token}</password>
     </server>
   </servers>
